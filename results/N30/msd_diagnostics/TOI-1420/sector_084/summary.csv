@@ -1,0 +1,16 @@
+planet,sector,transit_n,data_type,tag,model,mu,r2,regime,n_points,image,status
+TOI-1420,84,1,pre_baseline,pre,exponential,2.52554,-314.4055,Hyperballistic,101,transit_01_pre_msd.png,ok
+TOI-1420,84,1,in_transit_raw,raw,exponential,1.14404,-0.4878,Superdiffusive,101,transit_01_raw_msd.png,ok
+TOI-1420,84,1,in_transit_model,model,exponential,0.67664,0.98486,Subdiffusive,101,transit_01_model_msd.png,ok
+TOI-1420,84,1,in_transit_resid,resid,exponential,1.71488,-9.21494,Superdiffusive,101,transit_01_resid_msd.png,ok
+TOI-1420,84,1,post_baseline,post,exponential,2.45256,-164.54601,Hyperballistic,101,transit_01_post_msd.png,ok
+TOI-1420,84,2,pre_baseline,pre,exponential,2.46825,-197.35058,Hyperballistic,101,transit_02_pre_msd.png,ok
+TOI-1420,84,2,in_transit_raw,raw,exponential,1.27066,-1.14629,Superdiffusive,101,transit_02_raw_msd.png,ok
+TOI-1420,84,2,in_transit_model,model,exponential,0.67793,0.98492,Subdiffusive,101,transit_02_model_msd.png,ok
+TOI-1420,84,2,in_transit_resid,resid,exponential,1.71121,-1.84477,Superdiffusive,101,transit_02_resid_msd.png,ok
+TOI-1420,84,2,post_baseline,post,exponential,2.53742,-281.00515,Hyperballistic,102,transit_02_post_msd.png,ok
+TOI-1420,84,3,pre_baseline,pre,exponential,2.40596,-127.97169,Hyperballistic,101,transit_03_pre_msd.png,ok
+TOI-1420,84,3,in_transit_raw,raw,exponential,1.19687,-0.45082,Superdiffusive,102,transit_03_raw_msd.png,ok
+TOI-1420,84,3,in_transit_model,model,exponential,0.73679,0.98769,Subdiffusive,102,transit_03_model_msd.png,ok
+TOI-1420,84,3,in_transit_resid,resid,exponential,1.54664,-5.10397,Superdiffusive,102,transit_03_resid_msd.png,ok
+TOI-1420,84,3,post_baseline,post,exponential,2.40605,-133.82627,Hyperballistic,101,transit_03_post_msd.png,ok

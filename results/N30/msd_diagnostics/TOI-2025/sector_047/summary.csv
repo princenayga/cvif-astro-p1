@@ -1,0 +1,6 @@
+planet,sector,transit_n,data_type,tag,model,mu,r2,regime,n_points,image,status
+TOI-2025,47,1,pre_baseline,pre,exponential,2.64244,-546.13586,Hyperballistic,108,transit_01_pre_msd.png,ok
+TOI-2025,47,1,in_transit_raw,raw,exponential,2.37071,-49.7903,Hyperballistic,108,transit_01_raw_msd.png,ok
+TOI-2025,47,1,in_transit_model,model,exponential,2.56314,-20.69609,Hyperballistic,108,transit_01_model_msd.png,ok
+TOI-2025,47,1,in_transit_resid,resid,exponential,2.55511,-258.22349,Hyperballistic,108,transit_01_resid_msd.png,ok
+TOI-2025,47,1,post_baseline,post,exponential,2.6221,-478.8075,Hyperballistic,108,transit_01_post_msd.png,ok

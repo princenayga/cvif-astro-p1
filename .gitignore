@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large/personal files
+Archive/
+past/
+"poster pics/"
+poster pics/
+"Final HJ and UHJ/"
+Final HJ and UHJ/
+"[Calotes] Revised Thesis Manuscript.pdf"
+[Calotes] Revised Thesis Manuscript.pdf
+Prince_Non-Markovian.pdf
+"working abstract - exoplanet.docx"
+working abstract - exoplanet.docx
+
+# TESS raw FITS data (large)
+TESS_focused/
+transit_csvs/
+assistant/

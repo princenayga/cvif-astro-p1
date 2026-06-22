@@ -1,0 +1,4 @@
+planet,sector,transit_n,data_type,tag,model,mu,r2,regime,n_points,image,status
+TOI-1420,84,1,in_transit_resid,resid,exponential,1.71488,-9.21494,Superdiffusive,101,transit_01_resid_msd.png,ok
+TOI-1420,84,2,in_transit_resid,resid,exponential,1.71121,-1.84477,Superdiffusive,101,transit_02_resid_msd.png,ok
+TOI-1420,84,3,in_transit_resid,resid,exponential,1.54664,-5.10397,Superdiffusive,102,transit_03_resid_msd.png,ok
